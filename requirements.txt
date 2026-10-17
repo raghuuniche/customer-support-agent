@@ -1,0 +1,12 @@
+anthropic
+openai
+pinecone
+langgraph
+langsmith
+tavily-python
+rank-bm25
+pypdf
+reportlab
+streamlit
+pyyaml
+python-dotenv

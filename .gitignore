@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+data/tickets.db
+data/chunks.json
+data/escalations.db
+tests/results.csv
